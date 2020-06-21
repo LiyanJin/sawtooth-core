@@ -112,7 +112,7 @@ submit a consensus change proposal.
 
 #. If a new node joins the network, it must run both consensus engines and all
    related transaction processors. The original consensus is required to process
-   the first set of blocks.
+   the blocks that were submitted using the previous consensus.
 
 
 .. _pbft-consensus-label:
