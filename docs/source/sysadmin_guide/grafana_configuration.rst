@@ -248,7 +248,7 @@ the REST API settings for Grafana.
    * To restart ``sawtooth-rest-api`` on the command line, see the appropriate
      procedure in the Application Developer's Guide: either
      :doc:`../app_developers_guide/ubuntu` or :ref:`proc-multi-ubuntu-label`.
-     :ref:`proc-multi-ubuntu-label`.
+     
 
 
 Configure Telegraf
